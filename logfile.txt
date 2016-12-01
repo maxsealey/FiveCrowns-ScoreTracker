@@ -1,0 +1,10 @@
+---------------------------------
+The WINNER is Test with 0 points!
+---------------------------------
+
+Player 1: Test
+Final Score: 0
+
+Player 2: Test2
+Final Score: 11
+
