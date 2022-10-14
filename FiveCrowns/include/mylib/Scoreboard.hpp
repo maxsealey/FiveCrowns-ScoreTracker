@@ -16,4 +16,8 @@
 
 using namespace std;
 
+class Scoreboard {
+    
+};
+
 #endif /* Scoreboard_hpp */

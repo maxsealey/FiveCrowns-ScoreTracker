@@ -8,5 +8,7 @@
 #ifndef Enums_h
 #define Enums_h
 
+enum Gamestate { PLAY, QUIT };
+enum Color { BLUE, GREEN, RED, YELLOW, PURPLE, ORANGE };
 
 #endif /* Enums_h */

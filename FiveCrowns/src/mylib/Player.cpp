@@ -10,10 +10,11 @@
 #include "Player.hpp"
 #include "Enums.h"
 
-class Player {
-    
-};
+// Helper functions
 
+// Setter Definitions
+
+// Getter Definitions
 
 
 

@@ -11,6 +11,4 @@
 #include "Player.hpp"
 #include "Enums.h"
 
-class Scoreboard {
-    
-};
+
